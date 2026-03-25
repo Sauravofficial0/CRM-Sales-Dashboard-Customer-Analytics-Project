@@ -19,9 +19,6 @@ CRM-Sales-Dashboard-Project/
 │   └── charts.png
 │
 └── README.md
-
-https://docs.google.com/spreadsheets/d/1BRMANWNS1sEAx5hiBD1J8L0gRjjFauSc7lIDrwktIWM/edit?usp=sharing
-
 # 📊 CRM Sales Dashboard & Customer Analytics Project
 
 ## 🚀 Project Overview
