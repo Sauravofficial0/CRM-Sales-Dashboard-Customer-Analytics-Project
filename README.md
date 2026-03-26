@@ -100,12 +100,12 @@ Total Records: **50,000+**
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots in /screenshots folder)
+(screenshots)
 
 ---
 
 ## 🔗 Live Dashboard
-(Add your Google Sheets link here)
+(Check out screenshots)
 
 ---
 
